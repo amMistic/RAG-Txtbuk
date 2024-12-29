@@ -1,0 +1,12 @@
+/.txtbuk/
+/tests/
+
+/_pycache__/
+src/__pycache__/
+logs/
+
+.env
+temp.py
+temp2.py
+
+/data/
